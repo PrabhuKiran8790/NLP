@@ -1,0 +1,2 @@
+Are you fascinated by the amount of text data available on the internet? Are you looking for ways to work with this text data but aren’t sure where to begin? Machines, after all, recognize numbers, not the letters of our language. And that can be a tricky landscape to navigate in machine learning.
+Solving an NLP problem is a multi-stage process. We need to clean the unstructured text data first before we can even think about getting to the modelling stage. Cleaning the data consists of a few key steps.
