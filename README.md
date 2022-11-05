@@ -1,5 +1,5 @@
 # Natural Language Processing
-<code>Name : Prabhu Kiran Konda</code>. 
+<code>Name : Prabhu Kiran Konda</code>  
 <code>Roll No. : 20K45A0215</code>
 ---
 ## Assignment 1:  
