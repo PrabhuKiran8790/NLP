@@ -20,3 +20,7 @@ Data preprocessing is done separately. you can find the data preprocessing noteb
 |---------------------|--------|
 | <p1 style="color:white">Accuracy            | <code><p1 style="color:lime">88.35%</code> |
 | <p1 style="color:white">Validation Accuracy | <code><p1 style="color:lime">80.9%</code>  |
+
+## Document
+
+<a heref="https://github.com/PrabhuKiran8790/NLP/blob/main/final-project/NLP_Final_Document.pdf"><code>NLP_Final_Document.pdf</code></a>
