@@ -23,4 +23,4 @@ Data preprocessing is done separately. you can find the data preprocessing noteb
 
 ## Document
 
-<code><a heref="https://github.com/PrabhuKiran8790/NLP/blob/main/final-project/NLP_Final_Document.pdf">NLP_Final_Document.pdf</a></code>
+<code><a href="https://github.com/PrabhuKiran8790/NLP/blob/main/final-project/NLP_Final_Document.pdf">NLP_Final_Document.pdf<a/></code>
