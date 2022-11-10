@@ -11,9 +11,8 @@ This Project is about classification of a sentence based on various emotions whi
 | 5 | <p1 style="color:white">Surprise |
 
 dataset for this project is available on Kaggle. <code><a href="https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp">Dataset Link<a/></code>  
-Data preprocessing is done separately. you can find the data preprocessing notebook  <code><a href="https://github.com/PrabhuKiran8790/NLP/blob/main/final-project/bi_lstm_nlp_data_preprocessing.ipynb">bi_lstm_nlp_data_preprocessing.ipynb</a></code>  
+Data preprocessing is done separately. you can find the data preprocessing notebook  <code><a href="https://github.com/PrabhuKiran8790/NLP/blob/main/final-project/nlp_data_preprocessing.ipynb">nlp_data_preprocessing.ipynb</a></code>  
 
-Data Preprocessing takes time so I've included serialized preprocessed data. Download <code><a href="https://github.com/PrabhuKiran8790/NLP/blob/main/final-project/df_cleaned_train_test_val_.pkl">df_cleaned_train_test_val_.pkl</a></code>
 
 ## Metrics
 
